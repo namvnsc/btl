@@ -1,0 +1,47 @@
+body{
+    align-items: center;
+}
+.DivKhoaHoc{
+    align-self: center;
+    width: 85%;
+    height: 200px;
+    background-color: black;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.DivMoTaKhoaHoc{
+    width: 71%;
+    height: 155px;
+    background-color: white;
+    float: right;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.AnhKhoaHoc{
+    width: 20%;
+    height: 97%;
+    float: left;
+    border-radius: inherit;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.TextTenKhoaHoc{
+
+}
+
+.TextMoTaKhoaHoc{
+    font-family: consolas;
+    text-align: left;
+}
+
+.BaiHoc{
+    
+}
